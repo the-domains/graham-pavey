@@ -1,6 +1,6 @@
 name: Graham Pavey
 favicon: null
-layout_spectrum: 0.490360481897369
+layout_spectrum: 0.492
 typography_spectrum: 0.22545664943754673
 title: Photographer
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.7591855144128203
+  brandStrength: 0.1875
   lightness: 0.8692436653655022
   saturation: 0.7321380607318133
   rhythmicContrast: 0.7108094289433211
